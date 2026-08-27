@@ -1,0 +1,1702 @@
+{
+  "administrative tools": {
+    "name": "Administrative Tools",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools.lnk",
+    "type": "shortcut"
+  },
+  "file explorer": {
+    "name": "File Explorer",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\File Explorer.lnk",
+    "type": "shortcut"
+  },
+  "ollama": {
+    "name": "Ollama",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Ollama.lnk",
+    "type": "shortcut"
+  },
+  "vinay": {
+    "name": "VINAY",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\VINAY.lnk",
+    "type": "shortcut"
+  },
+  "livecaptions": {
+    "name": "LiveCaptions",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\LiveCaptions.lnk",
+    "type": "shortcut"
+  },
+  "magnify": {
+    "name": "Magnify",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk",
+    "type": "shortcut"
+  },
+  "narrator": {
+    "name": "Narrator",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk",
+    "type": "shortcut"
+  },
+  "onscreen keyboard": {
+    "name": "On-Screen Keyboard",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk",
+    "type": "shortcut"
+  },
+  "voiceaccess": {
+    "name": "VoiceAccess",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\VoiceAccess.lnk",
+    "type": "shortcut"
+  },
+  "anaconda navigator": {
+    "name": "Anaconda Navigator",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda (anaconda3)\\Anaconda Navigator.lnk",
+    "type": "shortcut"
+  },
+  "anaconda powershell prompt": {
+    "name": "Anaconda PowerShell Prompt",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda (anaconda3)\\Anaconda PowerShell Prompt.lnk",
+    "type": "shortcut"
+  },
+  "anaconda prompt": {
+    "name": "Anaconda Prompt",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda (anaconda3)\\Anaconda Prompt.lnk",
+    "type": "shortcut"
+  },
+  "jupyter notebook": {
+    "name": "Jupyter Notebook",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda (anaconda3)\\Jupyter Notebook.lnk",
+    "type": "shortcut"
+  },
+  "spyder": {
+    "name": "Spyder",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda (anaconda3)\\Spyder.lnk",
+    "type": "shortcut"
+  },
+  "idle python 313 64bit": {
+    "name": "IDLE (Python 3.13 64-bit)",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\IDLE (Python 3.13 64-bit).lnk",
+    "type": "shortcut"
+  },
+  "python 313 64bit": {
+    "name": "Python 3.13 (64-bit)",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 (64-bit).lnk",
+    "type": "shortcut"
+  },
+  "python 313 manuals 64bit": {
+    "name": "Python 3.13 Manuals (64-bit)",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 Manuals (64-bit).lnk",
+    "type": "shortcut"
+  },
+  "python 313 module docs 64bit": {
+    "name": "Python 3.13 Module Docs (64-bit)",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 Module Docs (64-bit).lnk",
+    "type": "shortcut"
+  },
+  "command prompt": {
+    "name": "Command Prompt",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk",
+    "type": "shortcut"
+  },
+  "control panel": {
+    "name": "Control Panel",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
+    "type": "shortcut"
+  },
+  "run": {
+    "name": "Run",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk",
+    "type": "shortcut"
+  },
+  "visual studio code": {
+    "name": "Visual Studio Code",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "type": "shortcut"
+  },
+  "windows powershell x86": {
+    "name": "Windows PowerShell (x86)",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk",
+    "type": "shortcut"
+  },
+  "windows powershell": {
+    "name": "Windows PowerShell",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
+    "type": "shortcut"
+  },
+  "amazoncom": {
+    "name": "Amazon.com",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Amazon.com.lnk",
+    "type": "shortcut"
+  },
+  "excel": {
+    "name": "Excel",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
+    "type": "shortcut"
+  },
+  "expressvpn": {
+    "name": "ExpressVPN",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ExpressVPN.lnk",
+    "type": "shortcut"
+  },
+  "google chrome": {
+    "name": "Google Chrome",
+    "path": "C:\\Users\\Public\\Desktop\\Google Chrome.lnk",
+    "type": "shortcut"
+  },
+  "hp documentation": {
+    "name": "HP Documentation",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\HP Documentation.lnk",
+    "type": "shortcut"
+  },
+  "lastpass": {
+    "name": "LastPass",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LastPass.lnk",
+    "type": "shortcut"
+  },
+  "microsoft edge": {
+    "name": "Microsoft Edge",
+    "path": "C:\\Users\\Public\\Desktop\\Microsoft Edge.lnk",
+    "type": "shortcut"
+  },
+  "onedrive": {
+    "name": "OneDrive",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk",
+    "type": "shortcut"
+  },
+  "onenote": {
+    "name": "OneNote",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote.lnk",
+    "type": "shortcut"
+  },
+  "powerpoint": {
+    "name": "PowerPoint",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk",
+    "type": "shortcut"
+  },
+  "sticky notes new": {
+    "name": "Sticky Notes (new)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sticky Notes (new).lnk",
+    "type": "shortcut"
+  },
+  "wildtangent games": {
+    "name": "WildTangent Games",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WildTangent Games.lnk",
+    "type": "shortcut"
+  },
+  "word": {
+    "name": "Word",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk",
+    "type": "shortcut"
+  },
+  "remote desktop connection": {
+    "name": "Remote Desktop Connection",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
+    "type": "shortcut"
+  },
+  "steps recorder": {
+    "name": "Steps Recorder",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Steps Recorder.lnk",
+    "type": "shortcut"
+  },
+  "windows media player legacy": {
+    "name": "Windows Media Player Legacy",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player Legacy.lnk",
+    "type": "shortcut"
+  },
+  "xps viewer": {
+    "name": "XPS Viewer",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\XPS Viewer.lnk",
+    "type": "shortcut"
+  },
+  "character map": {
+    "name": "Character Map",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk",
+    "type": "shortcut"
+  },
+  "component services": {
+    "name": "Component Services",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Component Services.lnk",
+    "type": "shortcut"
+  },
+  "computer management": {
+    "name": "Computer Management",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk",
+    "type": "shortcut"
+  },
+  "dfrgui": {
+    "name": "dfrgui",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk",
+    "type": "shortcut"
+  },
+  "disk cleanup": {
+    "name": "Disk Cleanup",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk",
+    "type": "shortcut"
+  },
+  "event viewer": {
+    "name": "Event Viewer",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk",
+    "type": "shortcut"
+  },
+  "iscsi initiator": {
+    "name": "iSCSI Initiator",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk",
+    "type": "shortcut"
+  },
+  "memory diagnostics tool": {
+    "name": "Memory Diagnostics Tool",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk",
+    "type": "shortcut"
+  },
+  "odbc data sources 32bit": {
+    "name": "ODBC Data Sources (32-bit)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk",
+    "type": "shortcut"
+  },
+  "odbc data sources 64bit": {
+    "name": "ODBC Data Sources (64-bit)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
+    "type": "shortcut"
+  },
+  "performance monitor": {
+    "name": "Performance Monitor",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
+    "type": "shortcut"
+  },
+  "recoverydrive": {
+    "name": "RecoveryDrive",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk",
+    "type": "shortcut"
+  },
+  "registry editor": {
+    "name": "Registry Editor",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk",
+    "type": "shortcut"
+  },
+  "resource monitor": {
+    "name": "Resource Monitor",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk",
+    "type": "shortcut"
+  },
+  "services": {
+    "name": "services",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk",
+    "type": "shortcut"
+  },
+  "system configuration": {
+    "name": "System Configuration",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk",
+    "type": "shortcut"
+  },
+  "system information": {
+    "name": "System Information",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk",
+    "type": "shortcut"
+  },
+  "task scheduler": {
+    "name": "Task Scheduler",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk",
+    "type": "shortcut"
+  },
+  "windows defender firewall with advanced security": {
+    "name": "Windows Defender Firewall with Advanced Security",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk",
+    "type": "shortcut"
+  },
+  "check for fxsound updates": {
+    "name": "Check for FxSound updates",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\FxSound\\Check for FxSound updates.lnk",
+    "type": "shortcut"
+  },
+  "fxsound": {
+    "name": "FxSound",
+    "path": "C:\\Users\\Public\\Desktop\\FxSound.lnk",
+    "type": "shortcut"
+  },
+  "daily hidden object": {
+    "name": "Daily Hidden Object",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Daily Hidden Object.lnk",
+    "type": "shortcut"
+  },
+  "daily jigsaw": {
+    "name": "Daily Jigsaw",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Daily Jigsaw.lnk",
+    "type": "shortcut"
+  },
+  "free games by wild": {
+    "name": "Free Games by wild",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Free Games by wild.lnk",
+    "type": "shortcut"
+  },
+  "hidden object games": {
+    "name": "Hidden Object Games",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Hidden Object Games.lnk",
+    "type": "shortcut"
+  },
+  "jewel quest": {
+    "name": "Jewel Quest",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Jewel Quest.lnk",
+    "type": "shortcut"
+  },
+  "mahjong games": {
+    "name": "Mahjong Games",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Mahjong Games.lnk",
+    "type": "shortcut"
+  },
+  "mahjongg candy": {
+    "name": "Mahjongg Candy",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Mahjongg Candy.lnk",
+    "type": "shortcut"
+  },
+  "mahjongg solitaire": {
+    "name": "Mahjongg Solitaire",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Mahjongg Solitaire.lnk",
+    "type": "shortcut"
+  },
+  "new games": {
+    "name": "New Games ",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\New Games .lnk",
+    "type": "shortcut"
+  },
+  "rpg": {
+    "name": "RPG",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\RPG.lnk",
+    "type": "shortcut"
+  },
+  "solitaire with themes": {
+    "name": "Solitaire with Themes",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Solitaire with Themes.lnk",
+    "type": "shortcut"
+  },
+  "solitaire poker more": {
+    "name": "Solitaire, Poker & More",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Solitaire, Poker & More.lnk",
+    "type": "shortcut"
+  },
+  "strategy games": {
+    "name": "Strategy Games",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Strategy Games.lnk",
+    "type": "shortcut"
+  },
+  "time management games": {
+    "name": "Time Management Games",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Time Management Games.lnk",
+    "type": "shortcut"
+  },
+  "vacation adventures park ranger 11 collectors edition": {
+    "name": "Vacation Adventures Park Ranger 11 Collector's Edition",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Vacation Adventures Park Ranger 11 Collector's Edition.lnk",
+    "type": "shortcut"
+  },
+  "vegas world": {
+    "name": "Vegas World",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Vegas World.lnk",
+    "type": "shortcut"
+  },
+  "office language preferences": {
+    "name": "Office Language Preferences",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Office Language Preferences.lnk",
+    "type": "shortcut"
+  },
+  "geforce experience": {
+    "name": "GeForce Experience",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NVIDIA Corporation\\GeForce Experience.lnk",
+    "type": "shortcut"
+  },
+  "task manager": {
+    "name": "Task Manager",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
+    "type": "shortcut"
+  },
+  "windows powershell ise x86": {
+    "name": "Windows PowerShell ISE (x86)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
+    "type": "shortcut"
+  },
+  "windows powershell ise": {
+    "name": "Windows PowerShell ISE",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
+    "type": "shortcut"
+  },
+  "sustainabilityframeworkreg": {
+    "name": "SustainabilityFrameworkReg",
+    "path": "C:\\Program Files\\Common Files\\McAfee\\Sustainability\\SustainabilityFrameworkReg.exe",
+    "type": "executable"
+  },
+  "appvcleaner": {
+    "name": "appvcleaner",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\appvcleaner.exe",
+    "type": "executable"
+  },
+  "appvshnotify": {
+    "name": "AppVShNotify",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\AppVShNotify.exe",
+    "type": "executable"
+  },
+  "inspectorofficegadget": {
+    "name": "InspectorOfficeGadget",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\InspectorOfficeGadget.exe",
+    "type": "executable"
+  },
+  "integratedoffice": {
+    "name": "IntegratedOffice",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\IntegratedOffice.exe",
+    "type": "executable"
+  },
+  "logcollector": {
+    "name": "logcollector",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\logcollector.exe",
+    "type": "executable"
+  },
+  "mavinject32": {
+    "name": "MavInject32",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\MavInject32.exe",
+    "type": "executable"
+  },
+  "officec2rclient": {
+    "name": "OfficeC2RClient",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeC2RClient.exe",
+    "type": "executable"
+  },
+  "officeclicktorun": {
+    "name": "OfficeClickToRun",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe",
+    "type": "executable"
+  },
+  "officesvcmgr": {
+    "name": "officesvcmgr",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\officesvcmgr.exe",
+    "type": "executable"
+  },
+  "tabtip": {
+    "name": "TabTip",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\ink\\TabTip.exe",
+    "type": "executable"
+  },
+  "msinfo32": {
+    "name": "msinfo32",
+    "path": "C:\\Program Files\\Common Files\\microsoft shared\\MSInfo\\msinfo32.exe",
+    "type": "executable"
+  },
+  "updater": {
+    "name": "updater",
+    "path": "C:\\Program Files\\FxSound LLC\\FxSound\\updater.exe",
+    "type": "executable"
+  },
+  "dfxsetupdrv": {
+    "name": "DfxSetupDrv",
+    "path": "C:\\Program Files\\FxSound LLC\\FxSound\\Apps\\DfxSetupDrv.exe",
+    "type": "executable"
+  },
+  "ptdevcon32": {
+    "name": "ptdevcon32",
+    "path": "C:\\Program Files\\FxSound LLC\\FxSound\\Drivers\\ptdevcon32.exe",
+    "type": "executable"
+  },
+  "ptdevcon64": {
+    "name": "ptdevcon64",
+    "path": "C:\\Program Files\\FxSound LLC\\FxSound\\Drivers\\ptdevcon64.exe",
+    "type": "executable"
+  },
+  "chrome": {
+    "name": "chrome",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "type": "executable"
+  },
+  "chromeproxy": {
+    "name": "chrome_proxy",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+    "type": "executable"
+  },
+  "addhpconsentmanagerlauncherscheduledtask": {
+    "name": "AddHPConsentManagerLauncherScheduledTask",
+    "path": "C:\\Program Files\\HP\\Consent Manager\\AddHPConsentManagerLauncherScheduledTask.exe",
+    "type": "executable"
+  },
+  "devicecontroltool": {
+    "name": "DeviceControlTool",
+    "path": "C:\\Program Files\\HP\\HP App Enabling Services Extension\\DeviceControlTool.exe",
+    "type": "executable"
+  },
+  "hpmedianetwork": {
+    "name": "HPMediaNetwork",
+    "path": "C:\\Program Files\\HP\\HP Media Network\\HPMediaNetwork.exe",
+    "type": "executable"
+  },
+  "hpprivacysettings": {
+    "name": "HPPrivacySettings",
+    "path": "C:\\Program Files\\HP\\HP Privacy Settings\\HPPrivacySettings.exe",
+    "type": "executable"
+  },
+  "hpseuhostlauncher": {
+    "name": "HpseuHostLauncher",
+    "path": "C:\\Program Files\\HP\\HP System Event Utility\\Host Launcher\\HpseuHostLauncher.exe",
+    "type": "executable"
+  },
+  "omeninstallmonitor": {
+    "name": "OmenInstallMonitor",
+    "path": "C:\\Program Files\\HP\\OmenInstallMonitor\\OmenInstallMonitor.exe",
+    "type": "executable"
+  },
+  "hpreadhwdatauninstall": {
+    "name": "HPReadHWDataUninstall",
+    "path": "C:\\Program Files\\HP\\OmenInstallMonitor\\HPReadHWData\\HPReadHWDataUninstall.exe",
+    "type": "executable"
+  },
+  "omenoverlay": {
+    "name": "OMENOverlay",
+    "path": "C:\\Program Files\\HP\\Overlay\\OMENOverlay.exe",
+    "type": "executable"
+  },
+  "omenoverlaylauncher": {
+    "name": "OMENOverlayLauncher",
+    "path": "C:\\Program Files\\HP\\Overlay\\OMENOverlayLauncher.exe",
+    "type": "executable"
+  },
+  "overlayhelper": {
+    "name": "OverlayHelper",
+    "path": "C:\\Program Files\\HP\\Overlay\\OverlayHelper.exe",
+    "type": "executable"
+  },
+  "wizinstaller": {
+    "name": "WizInstaller",
+    "path": "C:\\Program Files\\HP\\Shared\\WizInstaller.exe",
+    "type": "executable"
+  },
+  "hpcommrecovery": {
+    "name": "HPCommRecovery",
+    "path": "C:\\Program Files\\HPCommRecovery\\HPCommRecovery.exe",
+    "type": "executable"
+  },
+  "extexport": {
+    "name": "ExtExport",
+    "path": "C:\\Program Files\\Internet Explorer\\ExtExport.exe",
+    "type": "executable"
+  },
+  "iediagcmd": {
+    "name": "iediagcmd",
+    "path": "C:\\Program Files\\Internet Explorer\\iediagcmd.exe",
+    "type": "executable"
+  },
+  "ieinstal": {
+    "name": "ieinstal",
+    "path": "C:\\Program Files\\Internet Explorer\\ieinstal.exe",
+    "type": "executable"
+  },
+  "ielowutil": {
+    "name": "ielowutil",
+    "path": "C:\\Program Files\\Internet Explorer\\ielowutil.exe",
+    "type": "executable"
+  },
+  "iexplore": {
+    "name": "iexplore",
+    "path": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+    "type": "executable"
+  },
+  "browserhost": {
+    "name": "browserhost",
+    "path": "C:\\Program Files\\McAfee\\WebAdvisor\\browserhost.exe",
+    "type": "executable"
+  },
+  "mcse": {
+    "name": "mcse",
+    "path": "C:\\Program Files\\McAfee\\WebAdvisor\\mcse.exe",
+    "type": "executable"
+  },
+  "microsoftedgewebview2setup": {
+    "name": "microsoftedgewebview2setup",
+    "path": "C:\\Program Files\\McAfee\\WebAdvisor\\microsoftedgewebview2setup.exe",
+    "type": "executable"
+  },
+  "servicehost": {
+    "name": "servicehost",
+    "path": "C:\\Program Files\\McAfee\\WebAdvisor\\servicehost.exe",
+    "type": "executable"
+  },
+  "uihost": {
+    "name": "uihost",
+    "path": "C:\\Program Files\\McAfee\\WebAdvisor\\uihost.exe",
+    "type": "executable"
+  },
+  "uninstaller": {
+    "name": "uninstaller",
+    "path": "C:\\Program Files\\McAfee\\WebAdvisor\\uninstaller.exe",
+    "type": "executable"
+  },
+  "mclaunch": {
+    "name": "mc-launch",
+    "path": "C:\\Program Files\\McAfee\\wps\\mc-launch.exe",
+    "type": "executable"
+  },
+  "mcfwhost": {
+    "name": "mc-fw-host",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.39.160.1\\mc-fw-host.exe",
+    "type": "executable"
+  },
+  "mcappxinst": {
+    "name": "mc-appx-inst",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-appx-inst.exe",
+    "type": "executable"
+  },
+  "mcfakealertblocker": {
+    "name": "mc-fake-alert-blocker",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-fake-alert-blocker.exe",
+    "type": "executable"
+  },
+  "mcfwuac": {
+    "name": "mc-fw-uac",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-fw-uac.exe",
+    "type": "executable"
+  },
+  "mcinstuihost": {
+    "name": "mc-inst-uihost",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-inst-uihost.exe",
+    "type": "executable"
+  },
+  "mclaunchsparse": {
+    "name": "mc-launch-sparse",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-launch-sparse.exe",
+    "type": "executable"
+  },
+  "mcoemsubjob": {
+    "name": "mc-oem-subjob",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-oem-subjob.exe",
+    "type": "executable"
+  },
+  "mcrundllv1000": {
+    "name": "mc-run-dll-v1000",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-run-dll-v1000.exe",
+    "type": "executable"
+  },
+  "mcrundllv1001": {
+    "name": "mc-run-dll-v1001",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-run-dll-v1001.exe",
+    "type": "executable"
+  },
+  "mcrundllv1002": {
+    "name": "mc-run-dll-v1002",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-run-dll-v1002.exe",
+    "type": "executable"
+  },
+  "mcupdate": {
+    "name": "mc-update",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-update.exe",
+    "type": "executable"
+  },
+  "mcwebview": {
+    "name": "mc-web-view",
+    "path": "C:\\Program Files\\McAfee\\wps\\1.40.161.1\\mc-web-view.exe",
+    "type": "executable"
+  },
+  "mcwpssecdashboardservice": {
+    "name": "mc-wps-secdashboardservice",
+    "path": "C:\\Program Files\\McAfee\\wps\\mok\\mc-wps-secdashboardservice.exe",
+    "type": "executable"
+  },
+  "appvdllsurrogate": {
+    "name": "AppVDllSurrogate",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVDllSurrogate.exe",
+    "type": "executable"
+  },
+  "appvdllsurrogate32": {
+    "name": "AppVDllSurrogate32",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVDllSurrogate32.exe",
+    "type": "executable"
+  },
+  "appvdllsurrogate64": {
+    "name": "AppVDllSurrogate64",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVDllSurrogate64.exe",
+    "type": "executable"
+  },
+  "appvlp": {
+    "name": "AppVLP",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVLP.exe",
+    "type": "executable"
+  },
+  "integrator": {
+    "name": "Integrator",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Integration\\Integrator.exe",
+    "type": "executable"
+  },
+  "capture": {
+    "name": "capture",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\capture.exe",
+    "type": "executable"
+  },
+  "clview": {
+    "name": "CLVIEW",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\CLVIEW.EXE",
+    "type": "executable"
+  },
+  "cnfnot32": {
+    "name": "CNFNOT32",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\CNFNOT32.EXE",
+    "type": "executable"
+  },
+  "excelcnv": {
+    "name": "excelcnv",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\excelcnv.exe",
+    "type": "executable"
+  },
+  "graph": {
+    "name": "GRAPH",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\GRAPH.EXE",
+    "type": "executable"
+  },
+  "misc": {
+    "name": "misc",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\misc.exe",
+    "type": "executable"
+  },
+  "msoadfsb": {
+    "name": "msoadfsb",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msoadfsb.exe",
+    "type": "executable"
+  },
+  "msoasb": {
+    "name": "msoasb",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msoasb.exe",
+    "type": "executable"
+  },
+  "msohtmed": {
+    "name": "MSOHTMED",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSOHTMED.EXE",
+    "type": "executable"
+  },
+  "msosrec": {
+    "name": "MSOSREC",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSOSREC.EXE",
+    "type": "executable"
+  },
+  "msqry32": {
+    "name": "MSQRY32",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSQRY32.EXE",
+    "type": "executable"
+  },
+  "namecontrolserver": {
+    "name": "NAMECONTROLSERVER",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\NAMECONTROLSERVER.EXE",
+    "type": "executable"
+  },
+  "officeappguardwin32": {
+    "name": "officeappguardwin32",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\officeappguardwin32.exe",
+    "type": "executable"
+  },
+  "officescrbroker": {
+    "name": "OfficeScrBroker",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OfficeScrBroker.exe",
+    "type": "executable"
+  },
+  "officescrsanbroker": {
+    "name": "OfficeScrSanBroker",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OfficeScrSanBroker.exe",
+    "type": "executable"
+  },
+  "onenotem": {
+    "name": "ONENOTEM",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTEM.EXE",
+    "type": "executable"
+  },
+  "orgchart": {
+    "name": "ORGCHART",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ORGCHART.EXE",
+    "type": "executable"
+  },
+  "ospprearm": {
+    "name": "OSPPREARM",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OSPPREARM.EXE",
+    "type": "executable"
+  },
+  "pdfreflow": {
+    "name": "PDFREFLOW",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\PDFREFLOW.EXE",
+    "type": "executable"
+  },
+  "perfboost": {
+    "name": "PerfBoost",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\PerfBoost.exe",
+    "type": "executable"
+  },
+  "powerpnt": {
+    "name": "POWERPNT",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE",
+    "type": "executable"
+  },
+  "pptico": {
+    "name": "PPTICO",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\PPTICO.EXE",
+    "type": "executable"
+  },
+  "protocolhandler": {
+    "name": "protocolhandler",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\protocolhandler.exe",
+    "type": "executable"
+  },
+  "sdxhelper": {
+    "name": "SDXHelper",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SDXHelper.exe",
+    "type": "executable"
+  },
+  "sdxhelperbgt": {
+    "name": "SDXHelperBgt",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SDXHelperBgt.exe",
+    "type": "executable"
+  },
+  "selfcert": {
+    "name": "SELFCERT",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SELFCERT.EXE",
+    "type": "executable"
+  },
+  "setlang": {
+    "name": "SETLANG",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SETLANG.EXE",
+    "type": "executable"
+  },
+  "vpreview": {
+    "name": "VPREVIEW",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\VPREVIEW.EXE",
+    "type": "executable"
+  },
+  "winword": {
+    "name": "WINWORD",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+    "type": "executable"
+  },
+  "wordconv": {
+    "name": "Wordconv",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\Wordconv.exe",
+    "type": "executable"
+  },
+  "wordicon": {
+    "name": "WORDICON",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WORDICON.EXE",
+    "type": "executable"
+  },
+  "xlicons": {
+    "name": "XLICONS",
+    "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\XLICONS.EXE",
+    "type": "executable"
+  },
+  "onedriveapp": {
+    "name": "OneDrive.App",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.App.exe",
+    "type": "executable"
+  },
+  "onedrivestandaloneupdater": {
+    "name": "OneDriveStandaloneUpdater",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\OneDriveStandaloneUpdater.exe",
+    "type": "executable"
+  },
+  "filecoauth": {
+    "name": "FileCoAuth",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\FileCoAuth.exe",
+    "type": "executable"
+  },
+  "filesyncconfig": {
+    "name": "FileSyncConfig",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\FileSyncConfig.exe",
+    "type": "executable"
+  },
+  "filesynchelper": {
+    "name": "FileSyncHelper",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\FileSyncHelper.exe",
+    "type": "executable"
+  },
+  "microsoftsharepointnativemessagingclient": {
+    "name": "Microsoft.SharePoint.NativeMessagingClient",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\Microsoft.SharePoint.NativeMessagingClient.exe",
+    "type": "executable"
+  },
+  "onedrivesyncservice": {
+    "name": "OneDrive.Sync.Service",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\OneDrive.Sync.Service.exe",
+    "type": "executable"
+  },
+  "onedriveactionhelper": {
+    "name": "OneDriveActionHelper",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\OneDriveActionHelper.exe",
+    "type": "executable"
+  },
+  "onedrivefilelauncher": {
+    "name": "OneDriveFileLauncher",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\OneDriveFileLauncher.exe",
+    "type": "executable"
+  },
+  "onedrivelauncher": {
+    "name": "OneDriveLauncher",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\OneDriveLauncher.exe",
+    "type": "executable"
+  },
+  "onedrivepatcher": {
+    "name": "OneDrivePatcher",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\OneDrivePatcher.exe",
+    "type": "executable"
+  },
+  "onedrivesetup": {
+    "name": "OneDriveSetup",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\OneDriveSetup.exe",
+    "type": "executable"
+  },
+  "onedriveupdaterservice": {
+    "name": "OneDriveUpdaterService",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\26.134.0713.0007\\OneDriveUpdaterService.exe",
+    "type": "executable"
+  },
+  "nvfvsdksvcx64": {
+    "name": "nvfvsdksvc_x64",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\nvfvsdksvc_x64.exe",
+    "type": "executable"
+  },
+  "nvrla": {
+    "name": "nvrla",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\bin\\nvrla.exe",
+    "type": "executable"
+  },
+  "presentmonx64": {
+    "name": "PresentMon_x64",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\bin\\PresentMon_x64.exe",
+    "type": "executable"
+  },
+  "fvsdktestclient": {
+    "name": "FvSDKTestClient",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\SDK\\FvSDKTestClient.exe",
+    "type": "executable"
+  },
+  "fvsdktestclientpublic": {
+    "name": "FvSDKTestClient_Public",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\SDK\\FvSDKTestClient_Public.exe",
+    "type": "executable"
+  },
+  "setup": {
+    "name": "setup",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\CoreTemp.{60F67BA0-1371-4C3E-AA2C-B03F1D2F2978}\\setup.exe",
+    "type": "executable"
+  },
+  "nvshim": {
+    "name": "NvSHIM",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NvBackend\\NvSHIM.exe",
+    "type": "executable"
+  },
+  "nvtmrep": {
+    "name": "NvTmRep",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NvBackend\\NvTmRep.exe",
+    "type": "executable"
+  },
+  "nvcontainer": {
+    "name": "nvcontainer",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+    "type": "executable"
+  },
+  "7z": {
+    "name": "7z",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\7z.exe",
+    "type": "executable"
+  },
+  "courgette": {
+    "name": "courgette",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\courgette.exe",
+    "type": "executable"
+  },
+  "geforce experience permission": {
+    "name": "GeForce Experience Permission",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\GeForce Experience Permission.exe",
+    "type": "executable"
+  },
+  "nvidia geforce experience": {
+    "name": "NVIDIA GeForce Experience",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA GeForce Experience.exe",
+    "type": "executable"
+  },
+  "nvidia notification": {
+    "name": "NVIDIA Notification",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Notification.exe",
+    "type": "executable"
+  },
+  "nvidia share": {
+    "name": "NVIDIA Share",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe",
+    "type": "executable"
+  },
+  "nvdlisrwrapper": {
+    "name": "nvdlisrwrapper",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR\\nvdlisrwrapper.exe",
+    "type": "executable"
+  },
+  "nvstreamer": {
+    "name": "nvstreamer",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NvStreamSrv\\nvstreamer.exe",
+    "type": "executable"
+  },
+  "nvidiasteamlauncher": {
+    "name": "NVIDIA.SteamLauncher",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NvStreamSrv\\SteamLauncher\\NVIDIA.SteamLauncher.exe",
+    "type": "executable"
+  },
+  "nvsphelper64": {
+    "name": "nvsphelper64",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\ShadowPlay\\nvsphelper64.exe",
+    "type": "executable"
+  },
+  "configsecuritypolicy": {
+    "name": "ConfigSecurityPolicy",
+    "path": "C:\\Program Files\\Windows Defender\\ConfigSecurityPolicy.exe",
+    "type": "executable"
+  },
+  "dlpuseragent": {
+    "name": "DlpUserAgent",
+    "path": "C:\\Program Files\\Windows Defender\\DlpUserAgent.exe",
+    "type": "executable"
+  },
+  "mipdlp": {
+    "name": "MipDlp",
+    "path": "C:\\Program Files\\Windows Defender\\MipDlp.exe",
+    "type": "executable"
+  },
+  "mpcmdrun": {
+    "name": "MpCmdRun",
+    "path": "C:\\Program Files\\Windows Defender\\MpCmdRun.exe",
+    "type": "executable"
+  },
+  "mpcopyaccelerator": {
+    "name": "MpCopyAccelerator",
+    "path": "C:\\Program Files\\Windows Defender\\MpCopyAccelerator.exe",
+    "type": "executable"
+  },
+  "mpdefendercoreservice": {
+    "name": "MpDefenderCoreService",
+    "path": "C:\\Program Files\\Windows Defender\\MpDefenderCoreService.exe",
+    "type": "executable"
+  },
+  "mpdlpcmd": {
+    "name": "MpDlpCmd",
+    "path": "C:\\Program Files\\Windows Defender\\MpDlpCmd.exe",
+    "type": "executable"
+  },
+  "mpdlpservice": {
+    "name": "MpDlpService",
+    "path": "C:\\Program Files\\Windows Defender\\MpDlpService.exe",
+    "type": "executable"
+  },
+  "mpextms": {
+    "name": "mpextms",
+    "path": "C:\\Program Files\\Windows Defender\\mpextms.exe",
+    "type": "executable"
+  },
+  "msmpeng": {
+    "name": "MsMpEng",
+    "path": "C:\\Program Files\\Windows Defender\\MsMpEng.exe",
+    "type": "executable"
+  },
+  "nissrv": {
+    "name": "NisSrv",
+    "path": "C:\\Program Files\\Windows Defender\\NisSrv.exe",
+    "type": "executable"
+  },
+  "offlinescannershell": {
+    "name": "OfflineScannerShell",
+    "path": "C:\\Program Files\\Windows Defender\\Offline\\OfflineScannerShell.exe",
+    "type": "executable"
+  },
+  "wab": {
+    "name": "wab",
+    "path": "C:\\Program Files\\Windows Mail\\wab.exe",
+    "type": "executable"
+  },
+  "wabmig": {
+    "name": "wabmig",
+    "path": "C:\\Program Files\\Windows Mail\\wabmig.exe",
+    "type": "executable"
+  },
+  "setupwm": {
+    "name": "setup_wm",
+    "path": "C:\\Program Files\\Windows Media Player\\setup_wm.exe",
+    "type": "executable"
+  },
+  "wmlaunch": {
+    "name": "wmlaunch",
+    "path": "C:\\Program Files\\Windows Media Player\\wmlaunch.exe",
+    "type": "executable"
+  },
+  "wmpconfig": {
+    "name": "wmpconfig",
+    "path": "C:\\Program Files\\Windows Media Player\\wmpconfig.exe",
+    "type": "executable"
+  },
+  "wmplayer": {
+    "name": "wmplayer",
+    "path": "C:\\Program Files\\Windows Media Player\\wmplayer.exe",
+    "type": "executable"
+  },
+  "wmpnetwk": {
+    "name": "wmpnetwk",
+    "path": "C:\\Program Files\\Windows Media Player\\wmpnetwk.exe",
+    "type": "executable"
+  },
+  "wmpnscfg": {
+    "name": "wmpnscfg",
+    "path": "C:\\Program Files\\Windows Media Player\\wmpnscfg.exe",
+    "type": "executable"
+  },
+  "wmprph": {
+    "name": "wmprph",
+    "path": "C:\\Program Files\\Windows Media Player\\wmprph.exe",
+    "type": "executable"
+  },
+  "wmpshare": {
+    "name": "wmpshare",
+    "path": "C:\\Program Files\\Windows Media Player\\wmpshare.exe",
+    "type": "executable"
+  },
+  "imagingdevices": {
+    "name": "ImagingDevices",
+    "path": "C:\\Program Files\\Windows Photo Viewer\\ImagingDevices.exe",
+    "type": "executable"
+  },
+  "mcinst": {
+    "name": "McInst",
+    "path": "C:\\Program Files (x86)\\Common Files\\McAfee\\Installer\\McInst.exe",
+    "type": "executable"
+  },
+  "pipanel": {
+    "name": "pipanel",
+    "path": "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\ink\\pipanel.exe",
+    "type": "executable"
+  },
+  "tabtip32": {
+    "name": "TabTip32",
+    "path": "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\ink\\TabTip32.exe",
+    "type": "executable"
+  },
+  "nssm": {
+    "name": "nssm",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\bootstrap\\amd64\\nssm.exe",
+    "type": "executable"
+  },
+  "expressvpninstaller": {
+    "name": "ExpressVPN-Installer",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\expressvpn-ui\\ExpressVPN-Installer.exe",
+    "type": "executable"
+  },
+  "expressvpnnotificationservice": {
+    "name": "ExpressVPNNotificationService",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\expressvpn-ui\\ExpressVPNNotificationService.exe",
+    "type": "executable"
+  },
+  "expressvpnnotificationservicestarter": {
+    "name": "ExpressVPNNotificationServiceStarter",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\expressvpn-ui\\ExpressVPNNotificationServiceStarter.exe",
+    "type": "executable"
+  },
+  "expressvpnbrowserhelper": {
+    "name": "expressvpn-browser-helper",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\expressvpnd\\expressvpn-browser-helper.exe",
+    "type": "executable"
+  },
+  "expressvpnd": {
+    "name": "expressvpnd",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\expressvpnd\\expressvpnd.exe",
+    "type": "executable"
+  },
+  "lightway": {
+    "name": "lightway",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\expressvpnd\\lightway.exe",
+    "type": "executable"
+  },
+  "openvpn": {
+    "name": "openvpn",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\expressvpnd\\windows\\openvpn.exe",
+    "type": "executable"
+  },
+  "expressvpndriverinstaller": {
+    "name": "expressvpndriverinstaller",
+    "path": "C:\\Program Files (x86)\\ExpressVPN\\splittunnel\\expressvpndriverinstaller.exe",
+    "type": "executable"
+  },
+  "googleupdate": {
+    "name": "GoogleUpdate",
+    "path": "C:\\Program Files (x86)\\Google\\Update\\GoogleUpdate.exe",
+    "type": "executable"
+  },
+  "taskbarcontroller": {
+    "name": "TaskbarController",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\TaskbarController.exe",
+    "type": "executable"
+  },
+  "uninstallhpsa": {
+    "name": "UninstallHPSA",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\UninstallHPSA.exe",
+    "type": "executable"
+  },
+  "hpdia": {
+    "name": "HPDIA",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Modules\\HPDIA.exe",
+    "type": "executable"
+  },
+  "hpwpd": {
+    "name": "HPWPD",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Modules\\HPWPD.exe",
+    "type": "executable"
+  },
+  "hpcf": {
+    "name": "HPCF",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Resources\\HPCF.exe",
+    "type": "executable"
+  },
+  "hpsaapplauncher": {
+    "name": "HPSAAppLauncher",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Resources\\HPSAAppLauncher.exe",
+    "type": "executable"
+  },
+  "hpsalauncher": {
+    "name": "HPSALauncher",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Resources\\HPSALauncher.exe",
+    "type": "executable"
+  },
+  "hpsfreport": {
+    "name": "HPSFReport",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Resources\\HPSFReport.exe",
+    "type": "executable"
+  },
+  "hpsfviewer": {
+    "name": "HPSFViewer",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Resources\\HPSFViewer.exe",
+    "type": "executable"
+  },
+  "hpwsd": {
+    "name": "HPWSD",
+    "path": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Warranty\\HPWSD.exe",
+    "type": "executable"
+  },
+  "wizlink": {
+    "name": "WizLink",
+    "path": "C:\\Program Files (x86)\\HP\\Shared\\WizLink.exe",
+    "type": "executable"
+  },
+  "wizlocalelink": {
+    "name": "WizLocaleLink",
+    "path": "C:\\Program Files (x86)\\HP\\Shared\\WizLocaleLink.exe",
+    "type": "executable"
+  },
+  "mscopilot": {
+    "name": "mscopilot",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot.exe",
+    "type": "executable"
+  },
+  "mscopilotproxy": {
+    "name": "mscopilot_proxy",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot_proxy.exe",
+    "type": "executable"
+  },
+  "msedge": {
+    "name": "msedge",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "type": "executable"
+  },
+  "msedgeproxy": {
+    "name": "msedge_proxy",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge_proxy.exe",
+    "type": "executable"
+  },
+  "pwahelper": {
+    "name": "pwahelper",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\pwahelper.exe",
+    "type": "executable"
+  },
+  "cookieexporter": {
+    "name": "cookie_exporter",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\cookie_exporter.exe",
+    "type": "executable"
+  },
+  "copilotapp": {
+    "name": "copilotapp",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\copilotapp.exe",
+    "type": "executable"
+  },
+  "elevatedtracingservice": {
+    "name": "elevated_tracing_service",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\elevated_tracing_service.exe",
+    "type": "executable"
+  },
+  "elevationservice": {
+    "name": "elevation_service",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\elevation_service.exe",
+    "type": "executable"
+  },
+  "identityhelper": {
+    "name": "identity_helper",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\identity_helper.exe",
+    "type": "executable"
+  },
+  "msedgewebview2": {
+    "name": "msedgewebview2",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\msedgewebview2.exe",
+    "type": "executable"
+  },
+  "msedgepwalauncher": {
+    "name": "msedge_pwa_launcher",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\msedge_pwa_launcher.exe",
+    "type": "executable"
+  },
+  "notificationhelper": {
+    "name": "notification_helper",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\notification_helper.exe",
+    "type": "executable"
+  },
+  "platformexperienceshelper": {
+    "name": "platform_experiences_helper",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeCore\\150.0.4078.96\\platform_experiences_helper.exe",
+    "type": "executable"
+  },
+  "copilotupdate": {
+    "name": "CopilotUpdate",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\CopilotUpdate.exe",
+    "type": "executable"
+  },
+  "microsoftedgeupdate": {
+    "name": "MicrosoftEdgeUpdate",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe",
+    "type": "executable"
+  },
+  "microsoftedgecomregistershellarm64": {
+    "name": "MicrosoftEdgeComRegisterShellARM64",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.251.23\\MicrosoftEdgeComRegisterShellARM64.exe",
+    "type": "executable"
+  },
+  "microsoftedgeupdatebroker": {
+    "name": "MicrosoftEdgeUpdateBroker",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.251.23\\MicrosoftEdgeUpdateBroker.exe",
+    "type": "executable"
+  },
+  "microsoftedgeupdatecomregistershell64": {
+    "name": "MicrosoftEdgeUpdateComRegisterShell64",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.251.23\\MicrosoftEdgeUpdateComRegisterShell64.exe",
+    "type": "executable"
+  },
+  "microsoftedgeupdatecore": {
+    "name": "MicrosoftEdgeUpdateCore",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.251.23\\MicrosoftEdgeUpdateCore.exe",
+    "type": "executable"
+  },
+  "microsoftedgeupdateondemand": {
+    "name": "MicrosoftEdgeUpdateOnDemand",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.251.23\\MicrosoftEdgeUpdateOnDemand.exe",
+    "type": "executable"
+  },
+  "microsoftedgeupdatesetup": {
+    "name": "MicrosoftEdgeUpdateSetup",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.251.23\\MicrosoftEdgeUpdateSetup.exe",
+    "type": "executable"
+  },
+  "nvidia web helper": {
+    "name": "NVIDIA Web Helper",
+    "path": "C:\\Program Files (x86)\\NVIDIA Corporation\\NvNode\\NVIDIA Web Helper.exe",
+    "type": "executable"
+  },
+  "nvnodejslauncher": {
+    "name": "nvnodejslauncher",
+    "path": "C:\\Program Files (x86)\\NVIDIA Corporation\\NvNode\\nvnodejslauncher.exe",
+    "type": "executable"
+  },
+  "rtkmoduleversion": {
+    "name": "RTKModuleVersion",
+    "path": "C:\\Program Files (x86)\\Realtek\\PCIE Wireless LAN\\RTKModuleVersion.exe",
+    "type": "executable"
+  },
+  "devcon": {
+    "name": "devcon",
+    "path": "C:\\Program Files (x86)\\Realtek\\Realtek Bluetooth\\devcon.exe",
+    "type": "executable"
+  },
+  "rtkbtmanserv": {
+    "name": "RtkBtManServ",
+    "path": "C:\\Program Files (x86)\\Realtek\\Realtek Bluetooth\\0\\RtkBtManServ.exe",
+    "type": "executable"
+  },
+  "uninstall": {
+    "name": "uninstall",
+    "path": "C:\\Program Files (x86)\\WildGames\\uninstall.exe",
+    "type": "executable"
+  },
+  "parkranger11wt": {
+    "name": "parkRanger11-wt",
+    "path": "C:\\Program Files (x86)\\WildGames\\Vacation Adventures Park Ranger 11 Collectors Edition\\parkRanger11-wt.exe",
+    "type": "executable"
+  },
+  "gameconsolewt": {
+    "name": "GameConsole-wt",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\GameConsole-wt.exe",
+    "type": "executable"
+  },
+  "gameconsole": {
+    "name": "GameConsole",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\GameConsole.exe",
+    "type": "executable"
+  },
+  "gamelauncher": {
+    "name": "GameLauncher",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\GameLauncher.exe",
+    "type": "executable"
+  },
+  "gamelauncherx64": {
+    "name": "GameLauncherx64",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\GameLauncherx64.exe",
+    "type": "executable"
+  },
+  "gamesappservice": {
+    "name": "GamesAppService",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\GamesAppService.exe",
+    "type": "executable"
+  },
+  "nativeuserproxy": {
+    "name": "NativeUserProxy",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\NativeUserProxy.exe",
+    "type": "executable"
+  },
+  "patchhelper": {
+    "name": "PatchHelper",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\PatchHelper.exe",
+    "type": "executable"
+  },
+  "providerinstaller": {
+    "name": "ProviderInstaller",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\ProviderInstaller.exe",
+    "type": "executable"
+  },
+  "shortcuthlp": {
+    "name": "ShortcutHlp",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\ShortcutHlp.exe",
+    "type": "executable"
+  },
+  "wtappprotocolhandler": {
+    "name": "wtapp_ProtocolHandler",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\BrowserIntegration\\wtapp_ProtocolHandler.exe",
+    "type": "executable"
+  },
+  "park": {
+    "name": "Park",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\App\\PatchTools\\Park.exe",
+    "type": "executable"
+  },
+  "gameprovidermui": {
+    "name": "GameProviderMui",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\ShortcutProvider\\GameProviderMui.exe",
+    "type": "executable"
+  },
+  "provider": {
+    "name": "Provider",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\ShortcutProvider\\Provider.exe",
+    "type": "executable"
+  },
+  "gamesappfirstrun": {
+    "name": "GamesAppFirstRun",
+    "path": "C:\\Program Files (x86)\\WildTangent Games\\Touchpoints\\wildgames\\GamesAppFirstRun.exe",
+    "type": "executable"
+  },
+  "actionsmcphost": {
+    "name": "ActionsMcpHost",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\ActionsMcpHost.exe",
+    "type": "executable"
+  },
+  "amdlinkuwp": {
+    "name": "amdlinkuwp",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\amdlinkuwp.exe",
+    "type": "executable"
+  },
+  "gamebarelevatedftalias": {
+    "name": "GameBarElevatedFT_Alias",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\GameBarElevatedFT_Alias.exe",
+    "type": "executable"
+  },
+  "gethelp": {
+    "name": "GetHelp",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\GetHelp.exe",
+    "type": "executable"
+  },
+  "hp": {
+    "name": "hp",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\hp.exe",
+    "type": "executable"
+  },
+  "mediaplayer": {
+    "name": "MediaPlayer",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\MediaPlayer.exe",
+    "type": "executable"
+  },
+  "microsoftstore": {
+    "name": "microsoftstore",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\microsoftstore.exe",
+    "type": "executable"
+  },
+  "microsoftwindowsdesktopstickereditorcentennial": {
+    "name": "MicrosoftWindows.DesktopStickerEditorCentennial",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\MicrosoftWindows.DesktopStickerEditorCentennial.exe",
+    "type": "executable"
+  },
+  "mspaint": {
+    "name": "mspaint",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\mspaint.exe",
+    "type": "executable"
+  },
+  "msteams": {
+    "name": "msteams",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\msteams.exe",
+    "type": "executable"
+  },
+  "msteamsupdate": {
+    "name": "msteamsupdate",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\msteamsupdate.exe",
+    "type": "executable"
+  },
+  "msteamsautostarter": {
+    "name": "msteams_autostarter",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\msteams_autostarter.exe",
+    "type": "executable"
+  },
+  "notepad": {
+    "name": "notepad",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\notepad.exe",
+    "type": "executable"
+  },
+  "ogh": {
+    "name": "ogh",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\ogh.exe",
+    "type": "executable"
+  },
+  "olk": {
+    "name": "olk",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\olk.exe",
+    "type": "executable"
+  },
+  "padbrowsernativemessagehost": {
+    "name": "PAD.BrowserNativeMessageHost",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\PAD.BrowserNativeMessageHost.exe",
+    "type": "executable"
+  },
+  "padchildsessionservicehost": {
+    "name": "PAD.ChildSession.Service.Host",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\PAD.ChildSession.Service.Host.exe",
+    "type": "executable"
+  },
+  "pbrush": {
+    "name": "pbrush",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\pbrush.exe",
+    "type": "executable"
+  },
+  "py": {
+    "name": "py",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\py.exe",
+    "type": "executable"
+  },
+  "pymanager": {
+    "name": "pymanager",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\pymanager.exe",
+    "type": "executable"
+  },
+  "python": {
+    "name": "python",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "type": "executable"
+  },
+  "python3": {
+    "name": "python3",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\python3.exe",
+    "type": "executable"
+  },
+  "pythonw": {
+    "name": "pythonw",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\pythonw.exe",
+    "type": "executable"
+  },
+  "pyw": {
+    "name": "pyw",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\pyw.exe",
+    "type": "executable"
+  },
+  "pywmanager": {
+    "name": "pywmanager",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\pywmanager.exe",
+    "type": "executable"
+  },
+  "shellmcpserverspackaging": {
+    "name": "ShellMcpServers.Packaging",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\ShellMcpServers.Packaging.exe",
+    "type": "executable"
+  },
+  "snippingtool": {
+    "name": "SnippingTool",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\SnippingTool.exe",
+    "type": "executable"
+  },
+  "spotify": {
+    "name": "Spotify",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\Spotify.exe",
+    "type": "executable"
+  },
+  "spotifycli": {
+    "name": "spotify_cli",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\spotify_cli.exe",
+    "type": "executable"
+  },
+  "store": {
+    "name": "store",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\store.exe",
+    "type": "executable"
+  },
+  "windowspackagemanagermcpserver": {
+    "name": "WindowsPackageManagerMCPServer",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\WindowsPackageManagerMCPServer.exe",
+    "type": "executable"
+  },
+  "windowspackagemanagerserver": {
+    "name": "WindowsPackageManagerServer",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\WindowsPackageManagerServer.exe",
+    "type": "executable"
+  },
+  "winget": {
+    "name": "winget",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\winget.exe",
+    "type": "executable"
+  },
+  "wt": {
+    "name": "wt",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+    "type": "executable"
+  },
+  "xboxpcappadminserver": {
+    "name": "XboxPcAppAdminServer",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\XboxPcAppAdminServer.exe",
+    "type": "executable"
+  },
+  "xboxpcappce": {
+    "name": "XboxPcAppCE",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Microsoft\\WindowsApps\\XboxPcAppCE.exe",
+    "type": "executable"
+  },
+  "python31314amd64": {
+    "name": "python-3.13.14-amd64",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Package Cache\\{c49e1a3f-d78c-4307-b1e9-fc5e0ebb91a1}\\python-3.13.14-amd64.exe",
+    "type": "executable"
+  },
+  "code": {
+    "name": "Code",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "type": "executable"
+  },
+  "unins000": {
+    "name": "unins000",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe",
+    "type": "executable"
+  },
+  "codetunnel": {
+    "name": "code-tunnel",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code-tunnel.exe",
+    "type": "executable"
+  },
+  "ollama app": {
+    "name": "ollama app",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Programs\\Ollama\\ollama app.exe",
+    "type": "executable"
+  },
+  "codesetupstablec2d1b13fdc4a77628e5f3bb70173351c8f2fbad1": {
+    "name": "CodeSetup-stable-c2d1b13fdc4a77628e5f3bb70173351c8f2fbad1",
+    "path": "C:\\Users\\kanch_uuo3l2a\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-c2d1b13fdc4a77628e5f3bb70173351c8f2fbad1.exe",
+    "type": "executable"
+  }
+}
